@@ -9,7 +9,7 @@ const config = {
     entry: './src/app.jsx',
     output: {
         path: path.join(__dirname, 'dist'),
-        publicPath: WEBPACK_ENV === 'online' ? '//s.minjie.shop/admin-fe-v2/dist/' : '/dist/',
+        publicPath: WEBPACK_ENV === 'online' ? '//s.minjie.shop/admin-v2-fe/dist/' : '/dist/',
         filename: 'js/app.js'
     },
 
