@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# admin-fe-v2
+>>>>>>> [从零打造企业级电商后台管理系统](http://coding.imooc.com/class/179.html)
 =======
-# admin-fe-v2
->>>>>>> 后台管理系统v1.0
-React16+React-Router4 打造企业级电商后台管理系统
